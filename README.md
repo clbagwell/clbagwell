@@ -10,6 +10,8 @@
 
 <img align="left" alt="webxr" src="https://img.shields.io/badge/webxr%20-%2320232a.svg?&style=for-the-badge&logo=webxr&logocolor=white" />
 
+<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/3">
+
 <br/>
 
 ## Connect with me
