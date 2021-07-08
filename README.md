@@ -4,15 +4,21 @@
 
 🌱 I’m currently learning WebXR with Three.js
 
+🔭 Searching for my next passion project
+
 <br/>
 
 ## Expertise
 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/clbagwell/clbagwell.github.io">
+<img align="left" alt="GitHub language count" src="https://img.shields.io/github/languages/count/clbagwell/clbagwell.github.io">
+
+<img align="left" alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/3">
+
+<img align="left" alt="html5" src="https://img.shields.io/badge/HTML5-3DDC84?logo=html5&logoColor=white&style=for-the-badge" />
+
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
 <img align="left" alt="threejs" src="https://img.shields.io/badge/three.js%20-%2343853D.svg?&style=for-the-badge&logo=three.js&logoColor=white" />
-
-<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/3">
 
 <img align="left" alt="webxr" src="https://img.shields.io/badge/webxr%20-%2320232a.svg?&style=for-the-badge&logo=webxr&logocolor=white" />
 
@@ -22,7 +28,12 @@
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%23007785.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/claytonbagwell)
-                                   
+
+<!-- ## Blog posts -->
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **clbagwell/clbagwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
