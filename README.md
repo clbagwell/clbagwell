@@ -10,9 +10,12 @@
 
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/clbagwell/clbagwell.github.io">
 
-<img align="left" alt="webxr" src="https://img.shields.io/badge/webxr%20-%2320232a.svg?&style=for-the-badge&logo=webxr&logocolor=white" />
+<img align="left" alt="threejs" src="https://img.shields.io/badge/three.js%20-%2343853D.svg?&style=for-the-badge&logo=three.js&logoColor=white" />
 
 <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/3">
+
+<img align="left" alt="webxr" src="https://img.shields.io/badge/webxr%20-%2320232a.svg?&style=for-the-badge&logo=webxr&logocolor=white" />
+
 
 <br/>
 
