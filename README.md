@@ -22,10 +22,13 @@
 
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-FF8000?logo=javascript&logoColor=white&style=for-the-badge" />
 
+<br/>
 
 <img align="left" alt="threejs" src="https://img.shields.io/badge/three.js%20-%2343853D.svg?&style=for-the-badge&logo=three.js&logoColor=white" />
+
 * [Three spinning cubes in Three.js](https://clbagwell.github.io/)
 
+<br/>
 
 <img align="left" alt="webgl" src="https://img.shields.io/badge/webgl%20-%233333CC.svg?&style=for-the-badge&logo=webgl&logocolor=white" />
 
