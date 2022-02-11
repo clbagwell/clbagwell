@@ -1,3 +1,11 @@
+<div id="header" align="center">
+ <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDr0Tu1Mgx/giphy.gif" width="100"/> -->
+ <img src="https://giphy.com/gifs/coding-programmer-ngoding-jdPMeyv9rn0hZHh8n9" width="100"/>
+</div>
+<div id="counter" align="center">
+ <img src="https://komarev.com/ghpvc/?username=clbagwell&color=lightgrey&style=plastic" alt=""/>
+</div>
+
 ### Hello there World! 👋
 
 😄 Pronouns: He, Him, His
@@ -39,7 +47,9 @@
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%23007785.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/claytonbagwell)
 
-![](https://komarev.com/ghpvc/?username=clbagwell&color=lightgrey&style=plastic)
+<br/>
+
+====
 
 <!-- ## Blog posts -->
 <!-- BLOG-POST-LIST:START -->
