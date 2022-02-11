@@ -1,6 +1,6 @@
 <div id="header" align="center">
  <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDr0Tu1Mgx/giphy.gif" width="100"/> -->
- <img src="https://giphy.com/gifs/coding-programmer-ngoding-jdPMeyv9rn0hZHh8n9" width="100"/>
+ <img src="https://giphy.com/gifs/jdPMeyv9rn0hZHh8n9" width="100"/>
 </div>
 <div id="counter" align="center">
  <img src="https://komarev.com/ghpvc/?username=clbagwell&color=lightgrey&style=plastic" alt=""/>
