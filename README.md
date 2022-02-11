@@ -22,7 +22,7 @@
 
 ## :hammer_and_wrench: Languages and Tools:
 
-<div>
+<p>
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/clbagwell/clbagwell.github.io">&nbsp;
 
 <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/3">&nbsp;
@@ -46,7 +46,7 @@
 
   * [Three spinning cubes in Three.js](https://clbagwell.github.io/)
 
-</div>
+</p></p>
 
 <div>
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
