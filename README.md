@@ -6,7 +6,7 @@
  <img src="https://komarev.com/ghpvc/?username=clbagwell&color=lightgrey&style=plastic" alt=""/>
 </div>
 
-### :technologist: Hello there World! 👋
+### :technologist: Hello there World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 😄 Pronouns: He, Him, His
 
@@ -23,26 +23,26 @@
 ## :hammer_and_wrench: Languages and Tools:
 
 <div>
-<img align="left" alt="GitHub language count" src="https://img.shields.io/github/languages/count/clbagwell/clbagwell.github.io">&nbsp;
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/clbagwell/clbagwell.github.io">&nbsp;
 
-<img align="left" alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/3">&nbsp;
+<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/3">&nbsp;
 
-<img align="left" alt="C#" src="https://img.shields.io/badge/C%23-3DDBB4?logo=C#&logoColor=white&style=for-the-badge" />&nbsp;
+<img alt="C#" src="https://img.shields.io/badge/C%23-3DDBB4?logo=C#&logoColor=white&style=for-the-badge" />&nbsp;
 
-<img align="left" alt="html5" src="https://img.shields.io/badge/HTML5-3DDC84?logo=html5&logoColor=white&style=for-the-badge" />&nbsp;
+<img alt="html5" src="https://img.shields.io/badge/HTML5-3DDC84?logo=html5&logoColor=white&style=for-the-badge" />&nbsp;
 
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;
+<img alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;
 
-<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-FF8000?logo=javascript&logoColor=white&style=for-the-badge" />&nbsp;
+<img alt="javascript" src="https://img.shields.io/badge/javascript-FF8000?logo=javascript&logoColor=white&style=for-the-badge" />&nbsp;
 
-<img align="left" alt="webgl" src="https://img.shields.io/badge/webgl%20-%233333CC.svg?&style=for-the-badge&logo=webgl&logocolor=white" />&nbsp;
+<img alt="webgl" src="https://img.shields.io/badge/webgl%20-%233333CC.svg?&style=for-the-badge&logo=webgl&logocolor=white" />&nbsp;
 
-<img align="left" alt="webxr" src="https://img.shields.io/badge/webxr%20-%2320232a.svg?&style=for-the-badge&logo=webxr&logocolor=white" />&nbsp;
+<img alt="webxr" src="https://img.shields.io/badge/webxr%20-%2320232a.svg?&style=for-the-badge&logo=webxr&logocolor=white" />&nbsp;
 
 <br/><br/>
 
-<img align="left" alt="threejs" src="https://img.shields.io/badge/three.js%20-%2343853D.svg?&style=for-the-badge&logo=three.js&logoColor=white" />
-
+<img alt="threejs" src="https://img.shields.io/badge/three.js%20-%2343853D.svg?&style=for-the-badge&logo=three.js&logoColor=white" />
+<p>
 
   * [Three spinning cubes in Three.js](https://clbagwell.github.io/)
 
@@ -66,7 +66,7 @@
 
 ---
 
-## Connect with me
+## 📫 Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%23007785.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/claytonbagwell)
 
@@ -92,4 +92,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👋 Hi ...
 -->
