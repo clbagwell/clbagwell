@@ -39,6 +39,8 @@
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%23007785.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/claytonbagwell)
 
+![](https://komarev.com/ghpvc/?username=clbagwell&color=lightgrey&style=plastic)
+
 <!-- ## Blog posts -->
 <!-- BLOG-POST-LIST:START -->
  
