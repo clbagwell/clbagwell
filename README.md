@@ -1,7 +1,6 @@
 <div id="header" align="center">
  <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDr0Tu1Mgx/giphy.gif" width="100"/> -->
- <img src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9" width="100" class="giphy-embed" />
- <!-- <iframe src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> -->
+ <!-- <img src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9" width="100" class="giphy-embed" /> -->
 </div>
 <div id="counter" align="center">
  <img src="https://komarev.com/ghpvc/?username=clbagwell&color=lightgrey&style=plastic" alt=""/>
@@ -16,6 +15,10 @@
 🔭 Searching for my next passion project
 
 <br/>
+
+<div align="center">
+ img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" />
+</div>
 
 ## Expertise
 
@@ -50,7 +53,7 @@
 
 <br/><br/>
 
-===
+---
 
 <!-- ## Blog posts -->
 <!-- BLOG-POST-LIST:START -->
