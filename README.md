@@ -29,11 +29,11 @@
 
 <img src="https://img.shields.io/badge/C%23-3DDBB4?logo=C#&logoColor=white&style=for-the-badge" title="C#" alt="C#" />&nbsp;
 
-<img src="https://img.shields.io/badge/HTML5-3DDC84?logo=html5&logoColor=white&style=for-the-badge" title="html5" alt="html5" />&nbsp;
+<!-- <img src="https://img.shields.io/badge/HTML5-3DDC84?logo=html5&logoColor=white&style=for-the-badge" title="html5" alt="html5" />&nbsp; -->
 
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" title="react" alt="react" />&nbsp;
+<!-- <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" title="react" alt="react" />&nbsp; -->
 
-<img src="https://img.shields.io/badge/javascript-FF8000?logo=javascript&logoColor=white&style=for-the-badge" title="javascript" alt="javascript" />&nbsp;
+<!-- <img src="https://img.shields.io/badge/javascript-FF8000?logo=javascript&logoColor=white&style=for-the-badge" title="javascript" alt="javascript" />&nbsp; -->
 
 <img src="https://img.shields.io/badge/webgl%20-%233333CC.svg?&style=for-the-badge&logo=webgl&logocolor=white" title="webgl" alt="webgl" />&nbsp;
 
@@ -49,9 +49,12 @@
 <div>
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" Height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
 ---
