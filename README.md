@@ -23,39 +23,36 @@
 ## :hammer_and_wrench: Languages and Tools:
 
 <p>
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/clbagwell/clbagwell.github.io">&nbsp;
+<img src="https://img.shields.io/github/languages/count/clbagwell/clbagwell.github.io" title="GitHub language count" alt="GitHub language count" />&nbsp;
 
-<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/3">&nbsp;
+<img src="https://img.shields.io/pypi/pyversions/3" title="PyPI - Python Version" alt="PyPI - Python Version"/>&nbsp;
 
-<img alt="C#" src="https://img.shields.io/badge/C%23-3DDBB4?logo=C#&logoColor=white&style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/C%23-3DDBB4?logo=C#&logoColor=white&style=for-the-badge" title="C#" alt="C#" />&nbsp;
 
-<img alt="html5" src="https://img.shields.io/badge/HTML5-3DDC84?logo=html5&logoColor=white&style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/HTML5-3DDC84?logo=html5&logoColor=white&style=for-the-badge" title="html5" alt="html5" />&nbsp;
 
-<img alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" title="react" alt="react" />&nbsp;
 
-<img alt="javascript" src="https://img.shields.io/badge/javascript-FF8000?logo=javascript&logoColor=white&style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/javascript-FF8000?logo=javascript&logoColor=white&style=for-the-badge" title="javascript" alt="javascript" />&nbsp;
 
-<img alt="webgl" src="https://img.shields.io/badge/webgl%20-%233333CC.svg?&style=for-the-badge&logo=webgl&logocolor=white" />&nbsp;
+<img src="https://img.shields.io/badge/webgl%20-%233333CC.svg?&style=for-the-badge&logo=webgl&logocolor=white" title="webgl" alt="webgl" />&nbsp;
 
-<img alt="webxr" src="https://img.shields.io/badge/webxr%20-%2320232a.svg?&style=for-the-badge&logo=webxr&logocolor=white" />&nbsp;
+<img src="https://img.shields.io/badge/webxr%20-%2320232a.svg?&style=for-the-badge&logo=webxr&logocolor=white" title="webxr" alt="webxr" />&nbsp;
 
-<br/><br/>
-
-<img alt="threejs" src="https://img.shields.io/badge/three.js%20-%2343853D.svg?&style=for-the-badge&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/three.js%20-%2343853D.svg?&style=for-the-badge&logo=three.js&logoColor=white" title="threejs" alt="threejs" />
 <p>
 
   * [Three spinning cubes in Three.js](https://clbagwell.github.io/)
 
-</p></p>
-
+<p>
+ 
 <div>
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" Height="40"/>&nbsp;
 </div>
-
-<br/><br/>
 
 ---
 
