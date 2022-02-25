@@ -33,6 +33,8 @@
 <img src="https://img.shields.io/badge/webgl%20-%233333CC.svg?&style=for-the-badge&logo=webgl&logocolor=white" title="webgl" alt="webgl" />&nbsp;
 <img src="https://img.shields.io/badge/webxr%20-%2320232a.svg?&style=for-the-badge&logo=webxr&logocolor=white" title="webxr" alt="webxr" />&nbsp;
 </div>
+<img src="https://img.shields.io/badge/netlify/:romantic-lamarr-9e9ad8" title="webdev" alt="webdev" />&nbsp;
+<img src="https://img.shields.io/badge/netlify/:zealous-euler-a3f864" title="gamedev" alt="gamedev" />&nbsp;
 
 <img src="https://img.shields.io/badge/three.js%20-%2343853D.svg?&style=for-the-badge&logo=three.js&logoColor=white" title="threejs" alt="threejs" />
 <p>
