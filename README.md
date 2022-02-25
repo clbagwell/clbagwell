@@ -33,10 +33,10 @@
 <img src="https://img.shields.io/badge/webgl%20-%233333CC.svg?&style=for-the-badge&logo=webgl&logocolor=white" title="webgl" alt="webgl" />&nbsp;
 <img src="https://img.shields.io/badge/webxr%20-%2320232a.svg?&style=for-the-badge&logo=webxr&logocolor=white" title="webxr" alt="webxr" />&nbsp;
 </div>
-<img src="https://img.shields.io/badge/netlify/:c13c854e-2906-45a3-9aaf-47a049f7ce59" title="gamedev" alt="gamedev" />&nbsp;
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c13c854e-2906-45a3-9aaf-47a049f7ce59/deploy-status)](https://app.netlify.com/sites/zealous-euler-a3f864/deploys)
-<img src="https://img.shields.io/badge/netlify/:8720c0fb-2796-42b1-9dab-ced6fdff0e11" title="webdev" alt="webdev" />&nbsp;
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8720c0fb-2796-42b1-9dab-ced6fdff0e11/deploy-status)](https://app.netlify.com/sites/romantic-lamarr-9e9ad8/deploys)
+<img src="https://img.shields.io/badge/netlify/c13c854e-2906-45a3-9aaf-47a049f7ce59" title="gamedev" alt="gamedev" />&nbsp;
+<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/c13c854e-2906-45a3-9aaf-47a049f7ce59/deploy-status)](https://app.netlify.com/sites/zealous-euler-a3f864/deploys) -->
+<img src="https://img.shields.io/badge/netlify/8720c0fb-2796-42b1-9dab-ced6fdff0e11" title="webdev" alt="webdev" />&nbsp;
+<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/8720c0fb-2796-42b1-9dab-ced6fdff0e11/deploy-status)](https://app.netlify.com/sites/romantic-lamarr-9e9ad8/deploys) -->
 
 <img src="https://img.shields.io/badge/three.js%20-%2343853D.svg?&style=for-the-badge&logo=three.js&logoColor=white" title="threejs" alt="threejs" />
 <p>
