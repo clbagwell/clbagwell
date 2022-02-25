@@ -10,7 +10,7 @@
 
 😄 Pronouns: He, Him, His
 
-🌱 I’m currently learning WebXR with Three.js
+🌱 I’m currently learning WebXR with Three.js.  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 
 🔭 Searching for my next passion project
 
