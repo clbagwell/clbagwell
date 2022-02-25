@@ -24,7 +24,7 @@
 
 <p>
 <div>
-<img src="https://img.shields.io/github/languages/count/clbagwell/clbagwell.github.io" title="GitHub language count" alt="GitHub language count" />&nbsp;
+<img src="https://img.shields.io/github/languages/count/clbagwell/clbagwell.github.io?label=Github%3A%20Language%20Count" title="GitHub language count" alt="GitHub language count" />&nbsp;
 <img src="https://img.shields.io/pypi/pyversions/3" title="PyPI - Python Version" alt="PyPI - Python Version"/>&nbsp;
 <img src="https://img.shields.io/badge/C%23-3DDBB4?logo=C#&logoColor=white&style=for-the-badge" title="C#" alt="C#" />&nbsp;
 <!-- <img src="https://img.shields.io/badge/HTML5-3DDC84?logo=html5&logoColor=white&style=for-the-badge" title="html5" alt="html5" />&nbsp; -->
