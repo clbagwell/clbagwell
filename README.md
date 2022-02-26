@@ -59,7 +59,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
- <img src="https://ingenuitysoftwarelabs.com/portfolio/three-js" title="THREE.js" alt="THREE.js" width="40" height="40"/>&nbsp;
+ <img src="https://commons.wikimedia.org/wiki/File:Three.js_Icon.svg#/media/File:Three.js_Icon.svg" title="THREE.js" alt="THREE.js" width="40" height="40"/>&nbsp;
 </div>
 
 ---
