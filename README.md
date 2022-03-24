@@ -10,7 +10,8 @@
 
 😄 Pronouns: He, Him, His
 
-🌱 I’m currently learning WebXR with Three.js.  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<!-- 🌱 I’m currently learning WebXR with Three.js.  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; -->
+🌱 I’m currently learning WebXR with Three.js.  <img src="https://github.com/clbagwell/clbagwell.github.io/blob/main/css/favicon/favicon-32x32.png" title="WEbGL" alt="WebGL" width="40" height="40"/>&nbsp;
 
 🔭 Searching for my next passion project
 
@@ -61,6 +62,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1200px-Three.js_Icon.svg.png" title="THREE.js" alt="THREE.js" width="40" height="40" style="background-color:red;padding:20px;"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/clbagwell/clbagwell.github.io/blob/main/css/favicon/favicon-32x32.png" title="WebGL" alt="WebGL" width="40" height="40"/>&nbsp;
 </div>
 
 ---
