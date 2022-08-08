@@ -72,6 +72,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clbagwell&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![CLBagwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=clbagwell)](https://github.com/clbagwell/github-readme-stats)
+
 ---
 
 ## 📫 Connect with me
